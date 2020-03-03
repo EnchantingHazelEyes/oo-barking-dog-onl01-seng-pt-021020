@@ -1,2 +1,2 @@
 class Dog 
-  define 
+  define name=
