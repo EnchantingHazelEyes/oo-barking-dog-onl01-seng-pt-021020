@@ -1,2 +1,3 @@
 class Dog 
-  define name= dogs_name
+  define name=(dogs_name)
+  
