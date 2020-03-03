@@ -7,4 +7,6 @@ class Dog
     @fido
   end
   
+  def bark
+    puts "woof!"
 end
